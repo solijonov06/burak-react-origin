@@ -3,7 +3,7 @@ import { Container } from "@mui/material";
 import { Advertisement } from "./Advertisement";
 import { ActiveUsers } from "./ActiveUsers";
 import Events from "./Events";
-import { NewDishes } from "./NewDIshes";
+import { NewDishes } from "./NewDishes";
 import Statistics from "./Statistics";
 import { PopularDishes } from "./PopularDishes";
 import "../../../css/home.css";
