@@ -11,6 +11,10 @@ export type AppThunk<ReturnType = void> = ThunkAction<
   RootState,
   unknown,
   Action<string>
+<<<<<<< HEAD
 >;
 
 //
+=======
+>;
+>>>>>>> 480e691 (fix: handling node version err)
