@@ -52,7 +52,7 @@ export default function OrdersPage() {
                   <img className="user-img" src="/img/justin.webp" />
                    {/* <img className="user-perspective" src="img/User_perspective_matte_s 1.png" /> */}
 
-                  <Box className={"user-name"}>Justin</Box>
+                  <Box className={"user-name"}>Tony</Box>
                   <Box className={"user-ident"}> USER</Box>
                 </Stack>
 
@@ -60,7 +60,7 @@ export default function OrdersPage() {
 
                   <Stack className="user-detail-bottom">
                     <img className="user-location-img" src="/img/location.png" />
-                    <p className="user-location-p">Seville, Russia</p>
+                    <p className="user-location-p">Yongin, Korea</p>
                   </Stack>
             </Stack>
 
@@ -71,14 +71,14 @@ export default function OrdersPage() {
                   <Box className="month-day">07/24</Box>
                   <Box className="CVV">CVV: 010</Box>
                 </Stack>
-                <Box className="customer-name">Justin Robertson</Box>
+                <Box className="customer-name">Tony Stark</Box>
 
               </Stack>
               <Stack className="cards-img">
-                  <img className="cards" src="/img/western-union.png" />
-                  <img className="cards" src="/img/master-card.png" />
-                  <img className="cards" src="/img/paypal.png" />
-                  <img className="cards" src="/img/visa.png" />
+                  <img className="cards" src="/icons/visa-card.svg" />
+                  <img className="cards" src="/icons/paypal-card.svg" />
+                  <img className="cards" src="/icons/master-card.svg" />
+                  <img className="cards" src="/icons/western-card.svg" />
               </Stack>
 
             </Stack>
