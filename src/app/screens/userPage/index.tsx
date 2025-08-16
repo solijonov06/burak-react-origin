@@ -36,7 +36,7 @@ export default function UserPage() {
                     <img src={"/icons/user-badge.svg"} />
                   </div>
                 </div>
-                <span className={"order-user-name"}>Martin</span>
+                <span className={"order-user-name"}>Tony</span>
                 <span className={"order-user-prof"}>User</span>
                 <span className={"order-user-prof"}>No address</span>
               </Box>
